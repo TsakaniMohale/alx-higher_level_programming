@@ -1,0 +1,6 @@
+#include "lists"
+
+/**
+insert_node -insert 1 new node
+
+
